@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ChurchDirectory.App/ChurchDirectory.App.csproj" />
+  <Project Path="ChurchDirectory.Data/ChurchDirectory.Data.csproj" />
+  <Project Path="ChurchDirectory.Domain/ChurchDirectory.Domain.csproj" />
+  <Project Path="ChurchDirectory.Services/ChurchDirectory.Services.csproj" />
+</Solution>
